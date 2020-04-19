@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d40c17e.chunk.css",
-    "main.js": "/static/js/main.f7ffbc35.chunk.js",
-    "main.js.map": "/static/js/main.f7ffbc35.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b717093d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b717093d.js.map",
-    "static/js/2.d57787bf.chunk.js": "/static/js/2.d57787bf.chunk.js",
-    "static/js/2.d57787bf.chunk.js.map": "/static/js/2.d57787bf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bf504b6b77a9cdfe9366202439dd54f4.js": "/precache-manifest.bf504b6b77a9cdfe9366202439dd54f4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2d40c17e.chunk.css.map": "/static/css/main.2d40c17e.chunk.css.map",
-    "static/js/2.d57787bf.chunk.js.LICENSE.txt": "/static/js/2.d57787bf.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/static/media/image.d7265326.png"
+    "main.css": "/coronaTrackerApp/static/css/main.2d40c17e.chunk.css",
+    "main.js": "/coronaTrackerApp/static/js/main.ebc788ce.chunk.js",
+    "main.js.map": "/coronaTrackerApp/static/js/main.ebc788ce.chunk.js.map",
+    "runtime-main.js": "/coronaTrackerApp/static/js/runtime-main.0e8317a3.js",
+    "runtime-main.js.map": "/coronaTrackerApp/static/js/runtime-main.0e8317a3.js.map",
+    "static/js/2.858b8325.chunk.js": "/coronaTrackerApp/static/js/2.858b8325.chunk.js",
+    "static/js/2.858b8325.chunk.js.map": "/coronaTrackerApp/static/js/2.858b8325.chunk.js.map",
+    "index.html": "/coronaTrackerApp/index.html",
+    "precache-manifest.d4ff93b2fc1b0368af731dc09f8ede08.js": "/coronaTrackerApp/precache-manifest.d4ff93b2fc1b0368af731dc09f8ede08.js",
+    "service-worker.js": "/coronaTrackerApp/service-worker.js",
+    "static/css/main.2d40c17e.chunk.css.map": "/coronaTrackerApp/static/css/main.2d40c17e.chunk.css.map",
+    "static/js/2.858b8325.chunk.js.LICENSE.txt": "/coronaTrackerApp/static/js/2.858b8325.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/coronaTrackerApp/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b717093d.js",
-    "static/js/2.d57787bf.chunk.js",
+    "static/js/runtime-main.0e8317a3.js",
+    "static/js/2.858b8325.chunk.js",
     "static/css/main.2d40c17e.chunk.css",
-    "static/js/main.f7ffbc35.chunk.js"
+    "static/js/main.ebc788ce.chunk.js"
   ]
 }
